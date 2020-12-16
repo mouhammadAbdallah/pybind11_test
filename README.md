@@ -1,18 +1,18 @@
 To test pybind11:
 
-**the c++ library:
+** the c++ library:
 lib.hpp
 lib.cpp
 libcpp.so
 
-**c++ to python:
+** c++ to python:
 pybind11_wrapper.cpp
 
-**the created library:
+** the created library:
 pylib.cpython-38-x86_64-linux-gnu.so
 
-**steps of compilation:
+** steps of compilation:
 tasks.py
 
-**testing:
+** testing:
 test.py
